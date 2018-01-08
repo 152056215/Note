@@ -1,0 +1,4 @@
+E:\C#\testTwo\testTwo\bin\Debug\testTwo.exe
+E:\C#\testTwo\testTwo\bin\Debug\testTwo.pdb
+E:\C#\testTwo\testTwo\obj\x86\Debug\testTwo.exe
+E:\C#\testTwo\testTwo\obj\x86\Debug\testTwo.pdb
